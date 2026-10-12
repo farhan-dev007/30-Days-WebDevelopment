@@ -1,4 +1,5 @@
-# Day1-30
-This is Day 1 of our thirty days web development journey
+#30 Days Web Development Journey.
+Completed in 25 Days but you can learn many basic and advance tags and attribute of HTML,CSS,Javascript
 <br>
-author=FARHAN DEV
+<br>
+Author- FARHAN DEV(code guruji)
